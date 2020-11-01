@@ -8,3 +8,10 @@ bob = Member(first_name="bob", family_name="Martin")
 
 print(bob.first_name)
 print(bob.family_name)
+
+print(type(bob))
+
+print(type("hello"))
+
+print(type(345))
+
