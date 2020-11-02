@@ -11,10 +11,11 @@ print(bob.family_name)
 
 # what type of bob
 print(type(bob))
-
 print(type("hello"))
-
 print(type(345))
+
+
+
 
 tom = Member(first_name="tom", family_name="Ford")
 
